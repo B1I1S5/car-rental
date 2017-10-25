@@ -1,0 +1,26 @@
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\bin\Debug\Car Rental.exe.config
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\obj\Debug\Car Rental.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\obj\Debug\Car_Rental.FrmCarRental.resources
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\obj\Debug\Car_Rental.Resources.resources
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\obj\Debug\Car Rental.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\bin\Debug\Car Rental.exe
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\bin\Debug\Car Rental.pdb
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\bin\Debug\Car Rental.xml
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\obj\Debug\Car Rental.exe
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\obj\Debug\Car Rental.xml
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\obj\Debug\Car Rental.pdb
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\obj\Debug\Car_Rental.frmcustomerdetails.resources
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental\Car Rental\obj\Debug\Car_Rental.frmTypesofVehicles.resources
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\bin\Debug\Car Rental.exe.config
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\obj\Debug\Car Rental.exe
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\obj\Debug\Car Rental.xml
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\obj\Debug\Car Rental.pdb
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\obj\Debug\Car Rental.vbprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\obj\Debug\Car_Rental.frmcustomerdetails.resources
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\obj\Debug\Car_Rental.FrmCarRental.resources
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\obj\Debug\Car_Rental.Resources.resources
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\obj\Debug\Car_Rental.frmTypesofVehicles.resources
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\obj\Debug\Car Rental.vbproj.GenerateResource.Cache
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\bin\Debug\Car Rental.exe
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\bin\Debug\Car Rental.pdb
+C:\Users\Owner\Documents\大学一年级课程\Visual Basic\Car Rental - 副本\Car Rental\bin\Debug\Car Rental.xml
